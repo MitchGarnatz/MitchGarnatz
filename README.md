@@ -1,27 +1,15 @@
-- Hi, I’m @MitchGarnatz
-- I’m currently an Undergraduate Senior at the University of St. Thomas
-- Graduating in May of 2023
-- Below is my reflection for CISC 480 Senior Capstone
+- Hi, I’m @MitchGarnatz. I’m currently an Undergraduate Senior at the University of St. Thomas graduating in May of 2023. Below is my reflection for CISC 480 Senior Capstone
 
-- Problem of interest: 
-- Sustainability: Engery consumption & Gun Violence     
-
-- Connection to the common good:  
-- Morally responsible leaders, Think Critically, act wisely, work skillfully
-
-- UnitTests:            Energy consumption, working for fastest runtime
-- MIPS bubbleSort:      Energy consumption, assembly is works close to processor
-- GunViolence data:     Citizen awareness, geographic location affiliation
-- Database Creation:    Domain-specific point of view, how non-cs student would use
 - Position Paper:       Work outside cirriculum tying science and christianity
 
-Upon entering the computer science program at The University of St. Thomas, I had little to no knowledge of what coding really was. As I enter my final week of enrollment in CISC 480 Senior Capstone, I realize there is much I have learned regarding the application of computer science to the world. It is one thing to know the basics on how to code, but to know how to code and apply it to a functioning model is a skill I am thankful to have gained. There are many assignments/projects that have guided myself in becoming a more skilled developer, and I will touch on the most significant in my time at St. Thomas. These projects have helped me to hone my skills through the University's mission in being a morally responsible leader, thinking critically through problem solving, and acting with wisdom when approached with unfamiliar situations. As well as practicing these values, much of the coursework we have dealt with ties directly to the current issue sustainability. 
+Upon entering the computer science program at The University of St. Thomas, I had little to no knowledge of what coding really was. As I enter my final week of enrollment in CISC 480 Senior Capstone, I realize there is much I have learned regarding the application of computer science to the world. It is one thing to know the basics on how to code, but to know how to code and apply it to a functioning model is a skill I am thankful to have gained. There are many assignments/projects that have guided myself in becoming a more skilled developer, and I will touch on the most significant in my time at St. Thomas. These projects have helped me to hone my skills through the University's mission in being a skillful worker, thinking critically through problem solving, and acting with wisdom when approached with unfamiliar situations. As well as practicing these values, much of the coursework we have dealt with ties directly to the current issue sustainability. 
 
 Firstly, a project that I worked on in CISC 480 Senior Capstsone involved creating integration tests for a server called Spock. More detailed information on the project can be found here https://github.com/MitchGarnatz/SpockUnitTesting. Briefly, this project consisted of writing tests in java to analyze whether certain controller classes were working for the server. Much critical thinking was involved in debugging code, working to meet certain cases, and to ensure that objects were being correctly added and removed from the database. This piece of work also connects directly to the sustainability of energy. A key goal on the backend side of processes is to ensure runtime is as fast as possible. The tests I created in this project were quite large, so making sure the code was as efficient as possible helps in the greater scheme towards enegy conservation. 
 
+Another project that involved the sustainability of energy is linked here https://github.com/MitchGarnatz/MIPSCourseWork. This is a collection of assignments from my coursework in CISC 340 Computer Architecture. The one to focus on is titled BubbleSort.asm since this assignment dealt with approaching with wisdom rather than creativity. Assembley language works closely with the computer processing unit making runtime important. This assembley file takes an input from the user for a size of an array, has the user input this many integers, and then sorts then conducts a bubbleSort to sort the list in increasing order. This program is designed to make use of necessary registers which again relates directly to energy consumption. 
 
+Sustainability can be addressed in many ways, and one that is less obvious is displayed in the project linked here https://github.com/MitchGarnatz/GunViolenceDynamicServer. This project I created with 2 others in my CISC 375 Web Development course. It is a dynamic web server that makes use of the Node.js library and an SQLite3 database. My portion of the project was to focus on incorporating the graph.js library to display dynamic data pulled through the SQLite3 database into bar and line graphs. We categorized the data by acts of gun violence by state, day, and year. The visualization for sending the data to the graphs was done by mapping attributes to each other after being selected from the database. The graphs we created on the server relate to sustainability since it creates awareness for the well-being of Americans, and also shows which regions of America need attention in this issue. Having data helps people know the truth, creating incentive to certain areas safer to sustain more lives. 
 
-https://github.com/MitchGarnatz/MIPSCourseWork
-https://github.com/MitchGarnatz/DatabaseDesignTSQL
-https://github.com/MitchGarnatz/GunViolenceDynamicServer
-https://github.com/MitchGarnatz/WorkOutsideCirriculum
+Next and less related to sustaining energy, the project found here https://github.com/MitchGarnatz/DatabaseDesignTSQL is one that can be described in a domain-specific point of view. Since this project is just a TSQL file on creating a database, this has many implications and uses for those outside of the field of computer science. An example of this is when a person loads up their device or system to play an online game. Often user information such as their username, email, name, and profile icon are stored in a database framework on a more complex scale than the project I have linked to. Another example is how banking and finances are stored. Databases are created and maintained to hold account numbers, routing information, and values of credit all things that can be accessed by those who have no idea that their information came from a relational database. 
+
+Lastly, https://github.com/MitchGarnatz/WorkOutsideCirriculum
